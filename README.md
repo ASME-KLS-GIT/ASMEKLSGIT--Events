@@ -2,10 +2,6 @@
 ---
 
 # ASME KLS-GIT's Events 
-
-![ASME KLSGIT](./assets/asme-events-banner.png)
-
----
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,ros,raspberrypi,arduino)
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)![EasyEDA](https://img.shields.io/badge/EasyEDA-PCB%20Design-blue?style=for-the-badge)
