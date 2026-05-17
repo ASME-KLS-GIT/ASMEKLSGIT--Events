@@ -10,6 +10,8 @@ This is an active events directory for the Speed Modelling Competitions hosted b
 - Example Models
 - Event related updates 
 
-
-
+## Links 
+- Quick Setup Guide : https://youtu.be/IDVlT2neHNE?si=pJPQ6u6SSZ-QdAQ-
+- Get familiar(R1) : https://www.youtube.com/watch?v=LiixZYdDycc
+- Get familiar(R2) : https://youtu.be/J-hbyz2M8_c?si=8ltZkmB1zlyEwf7x
 
